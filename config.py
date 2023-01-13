@@ -1,0 +1,5 @@
+TOKEN = '5403583064:AAF4flrkTj9HlwrN7zqZ929tZbR0fAf-LNQ'
+URL_APPLES = 'https://donstu.ru/'
+URL_PEAR = 'https://www.youtube.com/watch?v=G1IbRujko-A&list=WL&index=22&t=50s'
+MSG_ERROR = 'Чего-то не хватает, смотри логи'
+MSG_STOP = 'Технический перерыв, попробуйте позже'
